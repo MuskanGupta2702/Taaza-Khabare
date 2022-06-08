@@ -18,7 +18,7 @@ const App = () => {
     return (
       <div>
       <Router>
-        <Navbar title='NewsApp'/>
+        <Navbar title='Taaza-Khabare'/>
         <LoadingBar
         color='#f11946'
         progress={progress}
